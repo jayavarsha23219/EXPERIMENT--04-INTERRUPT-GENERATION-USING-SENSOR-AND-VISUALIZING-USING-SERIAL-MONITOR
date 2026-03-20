@@ -714,7 +714,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![iot4](https://github.com/user-attachments/assets/7b43b375-b237-4057-9923-6162a39b38a9)
 
  4B
- <img width="1600" height="1000" alt="4B" src="https://github.com/user-attachments/assets/30aea86b-94a5-40d7-9fa5-a627272d2c69" />
+ <img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/eed033f5-30a4-4189-aec5-f6e225c67c36" />
+
 
 
  ## Circuit board :
